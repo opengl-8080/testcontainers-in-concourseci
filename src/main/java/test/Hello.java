@@ -5,4 +5,8 @@ public class Hello {
     public String getMessage() {
         return "Hello World!";
     }
+
+    public String hello() {
+        return "Hello";
+    }
 }
